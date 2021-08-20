@@ -9086,9 +9086,7 @@ input[type=range]::-ms-thumb {
 
 .vid-wrapper {
   border-radius: 25px;
-  border: yellow;
   border-width: 3px;
-  border-style: double;
 }
 
 .img-wrapper {
@@ -9101,8 +9099,4 @@ input[type=range]::-ms-thumb {
 
 .btn-wrapper {
   border-radius: 25px;
-}
-
-.btn-hover:hover {
-  background-color: yellow;
 }
