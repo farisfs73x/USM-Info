@@ -1,7 +1,7 @@
 # USM-Info
 
 
-## <img src="https://c.tenor.com/YnKbB-1kixMAAAAi/smartparcel-empty-box.gif" width="45px" height="50px"> Web Development Workshop by School of Computer Sciences USM
+## <img src="https://c.tenor.com/uT6ZsEuxSMwAAAAi/kstr-kochstrasse.gif" width="45px" height="50px"> Web Development Workshop by School of Computer Sciences USM
 1. Date: 20 August 2021
 ---
 
